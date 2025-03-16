@@ -56,7 +56,7 @@ function App() {
         </div>
       </main>
 
-      <div className="additional_sections flex flex-col items-center w-full px-4 sm:px-6 md:px-8 lg:px-12">
+      <div className="additional_sections flex flex-col items-center w-full px-4 sm:px-6 md:px-8 lg:px-12 md:w-[1200px]">
         <FeaturesSection />
 
         <h1 className="text-white text-3xl sm:text-4xl md:text-[50px] font-bold mb-10 sm:mb-12 md:mb-[80px] text-center">
